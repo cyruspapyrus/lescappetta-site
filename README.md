@@ -1,6 +1,6 @@
 # lescappetta.com
 
-One-page site for Les Cappetta and Aviation Leadership Advisors, LLC. Static HTML on GitHub Pages
+One-page site for Les Cappetta and Strategic Leadership Advisors, LLC. Static HTML on GitHub Pages
 (custom domain in `CNAME`, DNS at Namecheap). No build step: push to `main` and Pages publishes it.
 
 - `index.html` holds the page and its styles. `img/les-cappetta.jpg` is the headshot from his ACI-NA
